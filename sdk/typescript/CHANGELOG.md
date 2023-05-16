@@ -1,5 +1,11 @@
 # @mysten/sui.js
 
+## 0.34.1
+
+### Patch Changes
+
+- c3d9cc87f3: Update ts-sdk e2e test to reflect new rpc error language
+
 ## 0.34.0
 
 ### Minor Changes
